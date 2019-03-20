@@ -1,0 +1,2 @@
+onmessage = function (msg) {
+}
